@@ -7,27 +7,28 @@ Now a days. Be a company based on data is essencial to keep growing, minimize co
 House Rocket is a digital platform whose business model is the purchase and sale of real estate using technology. The dataset used here contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015. Houses has many attributes that make them more or less attractive to buyers and sellers, location and time of year can also influence prices. It'll be defined some hyphoteses and I am going to figure out if these hyphoteses are True or not and propose a solution. This project includes Exploratory data analysis only, in order to provide insights as well as vizualizations to make and support decisions based on data. This solution was deployed on heroku and I used Streamlit to presents the whole problem, visualization and solution. Links to access streamlit and dataset are here below.
 
 heroku webapp: https://house-rocket-streamlit.herokuapp.com/
+
 kaggle: https://www.kaggle.com/harlfoxem/housesalesprediction
 
 
 ### Variables Description
 
-**date**: date of sale
-**price**: selling price
-**bedrooms**: number of bedrooms
-**bathrooms**: number of bathrooms
-**sqft_living**: size of living area in ft²
-**sqft_lot**: lot size in feet²
-**floors**: number of floors
-**waterfront**: ‘1’ if the property is on the waterfront, ‘0’ if not.
-**view**: an index from 0 to 4 of how good the view of the property is (imagine 0 for a property with a view of a dirty alley and 4 for a property with a view of a beautiful park)
-**condition**: house condition, with values from 1 to 5
-**grade**: classification by the quality of the material of the house. Buildings with better materials usually cost more
-**sqft_above**: ft² above ground
-**sqft_basement**: ft² below ground
-**yr_built**: year of construction
-**yr_renovated**: year of renewal. ‘0’ if never renewed
-**zipcode**: 5-digit zip code
-**lat, long**: latitude and longitude
-**squft_livng15**: average size of the closest 15 houses, in feet²
-**sqft_lot15**: average plot size of the 15 closest houses, in feet²
+- **date**: date of sale
+- **price**: selling price
+- **bedrooms**: number of bedrooms
+- **bathrooms**: number of bathrooms
+- **sqft_living**: size of living area in ft²
+- **sqft_lot**: lot size in feet²
+- **floors**: number of floors
+- **waterfront**: ‘1’ if the property is on the waterfront, ‘0’ if not.
+- **view**: an index from 0 to 4 of how good the view of the property is (imagine 0 for a property with a view of a dirty alley and 4 for a property with a view of a beautiful park)
+- **condition**: house condition, with values from 1 to 5
+- **grade**: classification by the quality of the material of the house. Buildings with better materials usually cost more
+- **sqft_above**: ft² above ground
+- **sqft_basement**: ft² below ground
+- **yr_built**: year of construction
+- **yr_renovated**: year of renewal. ‘0’ if never renewed
+- **zipcode**: 5-digit zip code
+- **lat, long**: latitude and longitude
+- **squft_livng15**: average size of the closest 15 houses, in feet²
+- **sqft_lot15**: average plot size of the 15 closest houses, in feet²
