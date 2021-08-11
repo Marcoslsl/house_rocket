@@ -10,6 +10,7 @@ heroku webapp: https://house-rocket-streamlit.herokuapp.com/
 
 kaggle: https://www.kaggle.com/harlfoxem/housesalesprediction
 
+Where the idea to this project came from: https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/
 
 ### Variables Description
 
