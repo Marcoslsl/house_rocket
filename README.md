@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/84594190/129112665-63e31ac4-bbac-4c4a-a55b-4b8141b55ad2.png)
 
-Now a days. Be a company based on data is essencial to keep growing, minimize cost, make good predictions and on the whole, have your processes under control. The exploratory data analysis is a part needed of any project based on data that. Some projects might need a machine learning model, anothers one might need just a visualization. But, in all of this situations the exploratory data analysis is necessary. It's from it that We must be able to provide insights, importants informations that wouldn't be seen before. And It's an important step to another steps ahead (if there is).
+Now a days. Be a company based on data is essencial to keep growing, minimize cost, make good predictions and on the whole, have your processes under control. The exploratory data analysis is a part needed of any project based on data that. Some projects might need a machine learning model, anothers one might need just a visualization. But, in all of this situations the exploratory data analysis is necessary. It's from it that We must be able to provide insights, importants informations that wouldn't be seen before. And It's an important step to another steps ahead ( if there is ).
 
 # House Rocket
 
@@ -11,6 +11,7 @@ heroku webapp: https://house-rocket-streamlit.herokuapp.com/
 kaggle: https://www.kaggle.com/harlfoxem/housesalesprediction
 
 Where the idea to this project came from: https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/
+
 
 ### Variables Description
 
